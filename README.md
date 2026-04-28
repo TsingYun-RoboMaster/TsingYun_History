@@ -1,7 +1,7 @@
 # TsingYun_History
 
 <div align="center">
-    <img src="./logo.png" width="300"/>
+    <img src="./logo.png" width="200"/>
 </div>
 
 <h3 align="center">青云队史</h3>
