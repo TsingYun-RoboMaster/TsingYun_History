@@ -1,10 +1,10 @@
 # TsingYun_History
 
 <div align="center">
-    <img src="./logo.png" style="zoom: 20%;" />
+    <img src="./logo.png" width="200"/>
 </div>
 
-<p align="center" style="font-size: 20px; font-weight: bold;">青云队史</p>
+<h3 align="center">青云队史</h3>
 
 ## 目录
 
